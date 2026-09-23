@@ -1,0 +1,6 @@
+{
+  "name": "Big Small AI Signal Panel",
+  "description": "Mathematics AI signal analyzer and simulator for Big and Small color trading predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
